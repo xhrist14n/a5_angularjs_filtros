@@ -15,4 +15,3 @@ pass : d36681cb
 server : us-cdbr-iron-east-02.cleardb.net
 
 database : heroku_587373ea84ac21b
-
