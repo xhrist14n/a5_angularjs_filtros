@@ -1,0 +1,25 @@
+<div class="row marketing">
+
+	<div class="jumbotron" ng-controller="ExpressionsCtrl">
+                <p>
+                    <input type="text" ng-model="apellidos" placeholder="Apellidos">
+                </p>
+		<p>
+                    Los apellidos son <strong>{{ apellidos | uppercase }}</strong>
+                </p>
+                <p>
+                    <input type="text" ng-model="nombres" placeholder="Nombres">
+                </p>
+                <p>
+                    El nombre es <strong> {{ nombres | lowercase }}</strong>
+                </p>
+                <p>
+                    <input type="number" ng-model="dinero" placeholder="Dinero">
+                </p>
+                <p>
+                    Dinero <strong> {{ dinero | currency }}</strong>
+                </p>
+	</div>
+	​
+
+</div>
