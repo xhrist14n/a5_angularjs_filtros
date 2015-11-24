@@ -2,6 +2,9 @@ clear
 npm install
 clear
 bower install
-cp -rf client/ app/client
+clear
+rm -rf app/client
+cp -rf client app/client
 clear
 grunt serve
+rm -rf client

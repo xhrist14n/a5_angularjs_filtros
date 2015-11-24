@@ -1,8 +1,8 @@
-# a5 angularjs filtros
+# a4 angularjs controladores
 
-Tutorial sobre angularjs filtros... 
+Tutorial sobre angularjs controladores ... 
 
-Los filtros de angularJS hacen mas sencillo la codificacion de aplicaciones web.
+Los controladores de angularJS hacen mas sencillo la codificacion de aplicaciones web.
 
 #Video 
 
@@ -14,4 +14,4 @@ https://javascriptx.wordpress.com/2015/11/10/desarrollo-de-aplicaciones-web-con-
 
 #Ejemplo en Vivo
 
-https://angularjsfiltros.herokuapp.com/
+https://angularjscontroladores.herokuapp.com/
