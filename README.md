@@ -6,11 +6,11 @@ Los filtros de angularJS hacen mas sencillo la codificacion de aplicaciones web.
 
 #Video 
 
-https://www.youtube.com/watch?v=M9Ac4BLnyoQ
+https://youtu.be/epgdwak6trw
 
 #Blog
 
-https://javascriptx.wordpress.com/2015/11/10/desarrollo-de-aplicaciones-web-con-angularjs-filtros-2/
+https://javascriptx.wordpress.com/2015/11/25/desarrollo-de-aplicaciones-web-con-angularjs-filtros/
 
 #Ejemplo en Vivo
 

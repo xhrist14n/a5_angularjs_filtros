@@ -1,16 +1,18 @@
 <div class="row marketing">
 
 	<div class="jumbotron" ng-controller="FiltersCtrl">
-		<p>
-                    Los apellidos son <strong>{{ apellidos | uppercase }}</strong>
-                </p>
-                <p>
-                    El nombre es <strong> {{ nombres | lowercase }}</strong>
-                </p>
-                
-                <p>
-                    Dinero <strong> {{ dinero | currency }}</strong>
-                </p>
+            <p>
+                Los apellidos son <strong>{{ apellidos | uppercase }}</strong>
+            </p>
+            <p>
+                El nombre es <strong>{{ nombres | lowercase }}</strong>
+            </p>
+            <p>
+                Dinero 
+                <strong>
+                    {{ dinero | currency }}
+                </strong>
+            </p>
 	</div>
 	​
 

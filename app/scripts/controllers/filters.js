@@ -20,10 +20,11 @@ angular.module('adminApp').controller(
         var id="filters";
     	activeMenu(id);
         
-        $scope.apellidos = 'Portilla Pauca';        
+        $scope.apellidos = 'Portilla Pauca';
         
-        $scope.nombres = 'Christian';
+        $scope.nombres='Christian';
         
-        $scope.dinero = '40.5';
+        $scope.dinero= 89.9;
+        
     }
 );
